@@ -38,7 +38,7 @@ Please make sure to update tests as appropriate.
 
 ## Acknowledgment
 
-Thanks Carlos Caballero, who make the first implementation
+Thanks [Carlos Caballero](https://www.twitter.com/carlillo), who make the first implementation
 
 ## License
 
